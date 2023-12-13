@@ -38,6 +38,10 @@ extensions related to it. Contribute one if you know of it!
 
 - [CodeMirror community page](https://codemirror.net/docs/community/)
 
+## Wishlist
+
+- C-style comment continuation plugin (hitting Enter after typing `/**` takes you to the next line and adds a `*` on the next line)
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
