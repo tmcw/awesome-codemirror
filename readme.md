@@ -42,6 +42,7 @@ extensions related to it. Contribute one if you know of it!
 ## Wishlist
 
 - C-style comment continuation plugin (hitting Enter after typing `/**` takes you to the next line and adds a `*` on the next line)
+- Port of [template-string-converter from VS Code](https://github.com/meganrogge/template-string-converter): when you type `${`, it converts a quoted string to a template string
 
 ## Contributing
 
