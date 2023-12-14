@@ -18,6 +18,7 @@ extensions related to it. Contribute one if you know of it!
 - [emmet completions](https://github.com/emmetio/codemirror6-plugin)
 - [codemirror-languageserver](https://github.com/furqansoftware/codemirror-languageserver): LSP integration
 - [indentation-markers](https://github.com/replit/codemirror-indentation-markers)
+- [codemirror-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion): shows a gray "autocomplete" suggestion inline with code
 
 ## Integrations
 
