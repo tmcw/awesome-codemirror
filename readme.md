@@ -20,6 +20,7 @@ extensions related to it. Contribute one if you know of it!
 - [indentation-markers](https://github.com/replit/codemirror-indentation-markers)
 - [codemirror-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion): shows a gray "autocomplete" suggestion inline with code
 - [codemirror-continue](https://github.com/val-town/codemirror-continue): supports "continuing" C++ style comments in TypeScript when you press `Enter`.
+- [Velt](https://sample-apps-codemirror-comments-dem.vercel.app): collaboration SDK adding comments, presence, live cursors and CRDT
 
 ## Integrations
 
