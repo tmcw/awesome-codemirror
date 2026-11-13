@@ -21,6 +21,7 @@ extensions related to it. Contribute one if you know of it!
 - [codemirror-inline-suggestion](https://github.com/saminzadeh/codemirror-extension-inline-suggestion): shows a gray "autocomplete" suggestion inline with code
 - [codemirror-continue](https://github.com/val-town/codemirror-continue): supports "continuing" C++ style comments in TypeScript when you press `Enter`.
 - [Velt](https://sample-apps-codemirror-comments-dem.vercel.app): collaboration SDK adding comments, presence, live cursors and CRDT
+- [OpenMarkdown Editor](https://github.com/OpenMarkdown-dev/OpenMarkdown-editor): framework-free live-preview Markdown editor (tables edited in place, math, Mermaid, callouts, YAML properties)
 
 ## Integrations
 
